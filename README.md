@@ -1,1 +1,1 @@
-﻿# Lista de contatos com python e banco de dados SQL
+Lista de contatos com python e banco de dados SQL
